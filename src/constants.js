@@ -1,5 +1,5 @@
 const Constants = {
-  localBaseUrl: "http://localhost:3000/",
+  localBaseUrl: "http://69.48.163.45/api/",
 };
 
 export default Constants;
